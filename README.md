@@ -3,6 +3,10 @@
 > **Extract credentials, sessions, and cryptographic artifacts from Java heap dumps**  
 > Inspired by Hack The Box's **Eureka** machine where `/actuator/heapdump` exposed sensitive data.
 
+
+<p align="center">
+  <img src="screenshots/image.png" width="600" alt="Sample HTML Report">
+</p>
 ---
 
 ## 📌 Features
