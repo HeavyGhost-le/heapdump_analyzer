@@ -7,6 +7,12 @@
 <p align="center">
   <img src="screenshots/image.png" width="600" alt="Sample HTML Report">
 </p>
+
+
+<p align="center">
+  <img src="screenshots/image1.png" width="600" alt="Sample HTML Report">
+</p>
+
 ---
 
 ## 📌 Features
