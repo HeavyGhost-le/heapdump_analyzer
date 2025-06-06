@@ -17,6 +17,6 @@
 ## 🚀 Quick Start
 ### Installation
 ```bash
-git clone https://github.com/yourusername/heapdump_analyzer.git
+git clone https://github.com/HeavyGhost-le/heapdump_analyzer.git
 cd heapdump_analyzer
 pip install -r requirements.txt
